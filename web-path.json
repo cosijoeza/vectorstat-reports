@@ -1,0 +1,28 @@
+{
+    "organizations": {
+        "buttonOrgSection": "//*[@id='root']/div/div/div[1]/header/div/div/div/a[2]",
+        "buttonResetFilter": "//*[@id='reset-filter']",
+        "inputOrgName": "//*[@id='name']/div/input",
+        "buttonFirstOrganization":"//*[@id='0_name']/a",
+        "organizationInfo":{
+            "labelList":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]",
+            "firstLabel":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[1]/text",
+            "secondLabel":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[2]/text",
+            "thirdLabel":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[3]/text",
+            "fourthLabel":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[4]/text",
+            "fifthLabel":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[5]/text",
+            "sixthLabel":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[6]/text",
+            "labelAvailable":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[4]/text",
+            "labelCharging":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[5]/text",
+            "labelDisCharging":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[6]/text",
+            "labelFaulted":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[1]/text",
+            "labelPluggedIn":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[3]/text",
+            "labelUnavailable":"//*[@id='root']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div/svg/g/g[2]/g[2]/text"
+        }
+    },
+    "login": {
+        "inputPassword": "//*[@id='password']",
+        "buttonLogin": "//*[@id='root']/div/div/div/form/button",
+        "inputUser": "//*[@id='email']"
+    }
+}
